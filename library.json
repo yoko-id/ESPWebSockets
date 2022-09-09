@@ -15,7 +15,7 @@
     "frameworks": "arduino",
     "keywords": "wifi, http, web, server, client, websocket",
     "license": "LGPL-2.1",
-    "name": "WebSockets",
+    "name": "ESPWebSockets",
     "platforms": "atmelavr, espressif8266, espressif32",
     "repository": {
         "type": "git",
